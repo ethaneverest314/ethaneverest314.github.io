@@ -1,1 +1,1 @@
-theme: jekyll-theme-merlot
+```yaml remote_theme: pages-themes/minimal@v0.2.0 title: Your Name Portfolio description: Welcome to my homepage, resume, and projects!
